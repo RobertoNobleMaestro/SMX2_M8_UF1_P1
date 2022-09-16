@@ -29,7 +29,7 @@ presentación.
 |Google Meet | ![foto](https://github.com/RobertoNobleMaestro/SMX2_M8_UF1_P1/blob/main/Captura%20de%20pantalla%202022-09-16%20172629.png) | 
 | ... | ... |
 
-6. ¿Qué es ```HTML ``` ?
+6. ¿Qué es ```HTML ```?
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
