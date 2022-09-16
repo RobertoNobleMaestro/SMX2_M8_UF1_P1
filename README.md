@@ -28,3 +28,21 @@ presentación.
 | Google Calendar|![foto](https://github.com/RobertoNobleMaestro/SMX2_M8_UF1_P1/blob/main/Captura%20de%20pantalla%202022-09-16%20172617.png)| 
 |Google Meet | ![foto](https://github.com/RobertoNobleMaestro/SMX2_M8_UF1_P1/blob/main/Captura%20de%20pantalla%202022-09-16%20172629.png) | 
 | ... | ... |
+
+6. ¿Qué es HTML ?
+
+Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body>
+</body>
+</html>
+```
