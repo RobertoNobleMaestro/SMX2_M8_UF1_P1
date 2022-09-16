@@ -21,6 +21,7 @@ presentación.
 
 
 | Aplicaciones | Visto | 
+|--------|:----------:|
 |Google Docs|![foto](https://github.com/RobertoNobleMaestro/SMX2_M8_UF1_P1/blob/main/Captura%20de%20pantalla%202022-09-16%20172553.png)|
 |Google Slides | ![foto](https://github.com/RobertoNobleMaestro/SMX2_M8_UF1_P1/blob/main/Captura%20de%20pantalla%202022-09-16%20172553.png) | 
 | Google Sheets |![foto](https://github.com/RobertoNobleMaestro/SMX2_M8_UF1_P1/blob/main/Captura%20de%20pantalla%202022-09-16%20172553.png) | 
